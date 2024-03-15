@@ -1,0 +1,7 @@
+[2024-03-14T22:41:39.480017+00:00] name.WARNING: Alerta aplicacao [] []
+[2024-03-14T22:41:39.511356+00:00] name.ERROR: Erro aplicacao [] []
+[2024-03-14T22:54:40.968995+00:00] name.WARNING: Alerta aplicacao [] []
+[2024-03-14T22:54:40.974171+00:00] name.ERROR: Erro aplicacao [] []
+[2024-03-14T22:54:40.974429+00:00] name.ERROR: Erro aplicacao {"exception":"[object] (Exception(code: 0): Erro na aplicacao at C:\\Users\\Alison\\Desktop\\Documentos Faculdade\\Programação Web 2\\exlog2\\index.php:20)"} []
+[2024-03-15T01:05:10.173009+00:00] name.WARNING: Alerta aplicacao [] []
+[2024-03-15T01:05:10.191272+00:00] name.ERROR: Erro aplicacao [] []
